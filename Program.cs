@@ -113,11 +113,10 @@ namespace bp_implementation
         private void ShowInfo()
         {
             Console.WriteLine("Made by Remi Mestdagh");
-            Console.WriteLine("2: Creates a new model based on the labeled data in the blob storage container that is accessed through the sample labeling tool.");
-            Console.WriteLine("3: Choose a local file that is in the data folder of this project to upload and extract data in JSON format");
-            Console.WriteLine("4: Shows all models and their name");
-            Console.WriteLine("5: Delete a model");
-            Console.WriteLine("6: Displays all files in storage container.");
+            Console.WriteLine("2: Choose a local file that is in the data folder of this project to upload and extract data in JSON format");
+            Console.WriteLine("3: Shows all models and their name");
+            Console.WriteLine("4: Delete a model");
+            Console.WriteLine("5: Displays all files in storage container.");
 
         }
 
