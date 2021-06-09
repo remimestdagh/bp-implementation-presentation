@@ -12,6 +12,8 @@ Clone repository and open with Visual Studio 2019
 
 Add pdfs of invoices to data folder
 
+Enter API keys and connection strings
+
 
 
 ## Maintained by
